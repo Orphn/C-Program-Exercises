@@ -1,6 +1,6 @@
 # Introductory C Programming Exercises – Unicamp
 
-This repository contains a collection of independent C programs developed as part of the undergraduate course **MC102 – Algorithms and Computer Programming I**, offered by the University of Campinas (Unicamp). The main goal is to reinforce foundational programming concepts using the C language, through practical problem-solving exercises.
+This repository contains a collection of independent C programs developed as part of the undergraduate course **Algorithms and Computer Programming I**, offered by the University of Campinas (Unicamp). The main goal is to reinforce foundational programming concepts using the C language, through practical problem-solving exercises.
 
 Each program is self-contained and focuses on a specific topic such as conditionals, loops, arrays, strings, structures, functions, and memory management.
 
